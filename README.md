@@ -30,10 +30,10 @@ CIS 121 Week 5 Documentation
 **How to Compile and Run**
 
 To compile and run these C++ programs, you will need a C++ compiler like g++. You can compile each program using the following command:
-g++ -o AssignmentX AssignmentX.cpp
+" g++ -o AssignmentX AssignmentX.cpp "
 
 Replace X with the assignment number. To run the compiled program, use:
-./AssignmentX
+" ./AssignmentX "
 
 **Prerequisites**
 
