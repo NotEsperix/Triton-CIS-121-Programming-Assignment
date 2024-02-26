@@ -1,5 +1,7 @@
 **Triton College CIS 121 Coursework**
+
 *Introduction*
+
 This repository contains the coursework I completed for the CIS 121 course at Triton College, showcasing my proficiency in C++. It includes a series of assignments that demonstrate various programming concepts and techniques in C++. The repository is intended for potential employers, fellow students, and teachers to review and understand my programming capabilities.
 
 *Repository Contents*
